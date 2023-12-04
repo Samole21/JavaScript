@@ -1,5 +1,5 @@
 
-```html
+<html>
 <!doctype html>
 <html lang="fr">
 	<head>
@@ -36,5 +36,3 @@
         
 	</body>	
 </html>
-
-```
